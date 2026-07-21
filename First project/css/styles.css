@@ -7,7 +7,7 @@ html {
 }
 body {
   font-family: vazir;
-  background-color: #53264c;
+  background-color: #3E0856;
 }
 ul {
   list-style-type: none;
@@ -51,8 +51,8 @@ hr {
 
 /* header sign up buttom */
 #header .header-sign-up-button {
-  background-color: #8b3c7f;
-  color: white;
+  background-color: #3E0856;
+  color: #FAAE62;
   padding: 10px 15px;
   border-radius: 50px;
 }
@@ -68,7 +68,7 @@ section h2.section-title {
   margin: 50px 0px 30px;
 }
 section h2.section-title span {
-  color: #f1c40f;
+  color: #FAAE62;
 }
 /* محصولات پرطرفدار */
 #best-products {
@@ -113,7 +113,7 @@ section h2.section-title span {
   justify-content: space-between;
 }
 #best-products .product .order-button {
-  background: #f1c40f;
+  background: #FAAE62;
   color: black;
   padding: 5px 10px;
   border-radius: 10px;
@@ -138,7 +138,7 @@ section h2.section-title span {
 #benefits-list .benefit-item .benefit-icon {
   font-size: 30px;
   margin: 20px 0;
-  color: #f1c40f;
+  color: #FAAE62;
 }
 #benefits-list .benefit-item .benefit-title {
   margin-bottom: 15px;
@@ -175,7 +175,7 @@ section h2.section-title span {
 }
 #testimonial .testimonial-item .testimonial-caption .testimonial-name {
   font-size: 16px;
-  color: #f1c40f;
+  color: #FAAE62;
 }
 /* footer  */
 #footer {
@@ -202,7 +202,7 @@ section h2.section-title span {
 }
 #footer .info-box .contact-us i {
   margin-left: 5px;
-  color: #f1c40f;
+  color: #FAAE62;
 }
 #footer .info-box .contact-us p {
   font-size: 14px;
