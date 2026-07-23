@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sam-item-first-project",
+  "compatibility_date": "2026-07-23",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "First project"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
